@@ -1,0 +1,21 @@
+{
+  "name": "EL-Commerce App",
+  "version": "1.0.0",
+  "description": "EL-Commerce app projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phonegap/phonegap-app-blank.git"
+  },
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "author": "Einstein Creative Studio",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/phonegap/phonegap-app-blank/issues"
+  },
+  "homepage": "https://github.com/phonegap/phonegap-app-blank#readme"
+}
