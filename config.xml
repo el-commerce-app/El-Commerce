@@ -8,5 +8,10 @@
         Einstein Creative Studio
     </author>
     <content src="index.html" />
+    <icon src="platforms/browser/res/icon/ios/icon.png" />
+    <platform name="ios">  
+		<icon src="platforms/browser/res/icon/ios/icon.png" qualifier="nodpi" />  
+  		<icon src="platforms/browser/res/icon/ios/icon.png" qualifier="ldpi" />  
+	</platform> 
     <access origin="*" />
 </widget>
