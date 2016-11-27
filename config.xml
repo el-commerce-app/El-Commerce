@@ -8,10 +8,12 @@
         Einstein Creative Studio
     </author>
     <content src="index.html" />
-    <icon src="platforms/browser/res/icon/ios/icon.png" />
+    <icon src="res/icon/ios/icon.png" />
+    <icon src="res/icon/ios/icon-57.png" platform="ios" width="60" height="60" />
+    <splash src="res/icon/ios/icon-57.png" platform="ios" width="320" height="480" />
     <platform name="ios">  
-		<icon src="platforms/browser/res/icon/ios/icon.png" qualifier="nodpi" />  
-  		<icon src="platforms/browser/res/icon/ios/icon.png" qualifier="ldpi" />  
+		<icon src="res/icon/ios/icon.png" qualifier="nodpi" />  
+  		<splash height="480" platform="ios" src="res/icon/ios/icon.png" width="320" />
 	</platform> 
     <access origin="*" />
 </widget>
